@@ -1,1 +1,4 @@
-p { background-color: red; }
+* {color: red;}
+li {color: plum;}
+a {color: blue;}
+#otsikko {color: blue;}
