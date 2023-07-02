@@ -1,4 +1,27 @@
-* {color: red;}
-li {color: plum;}
-a {color: blue;}
-#otsikko {color: blue;}
+* {color: rgb(80, 79, 79);}
+
+li {color: rgb(0, 0, 0);}
+
+body {
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: "Helvetica", "Arial", sans-serif;
+    line-height: 1.5;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(43, 43, 43);
+}
+
+a {
+    color: blue;
+}
+
+.kuva {
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 20px;
+}
